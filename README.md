@@ -8,7 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-a-j&color=00ffb3&style=for-the-badge)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreyas-a-j&label=PROFILE+VIEWS&color=00ffb3&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+</div>
 
 </div>
 
