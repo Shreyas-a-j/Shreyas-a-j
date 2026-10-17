@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-a-j&color=00ffb3&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-a-j)
 
 </div>
 
